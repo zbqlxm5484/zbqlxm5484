@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4B6CB7&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Product%20Manager&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1428A0&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Product%20Manager&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EC%9A%94%EA%B5%AC%EB%A5%BC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EA%B5%AC%EC%B2%B4%ED%99%94%ED%95%98%EB%8A%94%20%EA%B9%80%EC%A7%80%EC%9C%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%2C%20%ED%8C%80%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%99%84%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4." alt="사용자의 요구를 서비스로 구체화하고, 팀과 함께 완성합니다." />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=2500&pause=500&color=1428A0&center=true&vCenter=true&width=950&height=75&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EC%9A%94%EA%B5%AC%EB%A5%BC%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EA%B5%AC%EC%B2%B4%ED%99%94%ED%95%98%EB%8A%94%20%EA%B9%80%EC%A7%80%EC%9C%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%2C%20%ED%8C%80%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%99%84%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4." alt="사용자의 요구를 서비스로 구체화하고, 팀과 함께 완성합니다." />
 
 <br/><br/>
 
@@ -104,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4B6CB7&height=100&section=footer" alt="Gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1428A0&height=100&section=footer" alt="Gradient footer" />
 
 </div>
