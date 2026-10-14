@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="mailto:zbqlxm5484@naver.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&labelColor=111827" height="44" alt="Email Contact" /></a>
+<a href="https://github.com/zbqlxm5484/zbqlxm5484/raw/refs/heads/master/kim-jiyoon-portfolio.pdf"><img src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-1428A0?style=for-the-badge&labelColor=111827" height="44" alt="Portfolio Download" /></a>
 
 </div>
 
