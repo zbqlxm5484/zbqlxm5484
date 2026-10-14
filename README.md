@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Product%20Manager&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4B6CB7&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Product%20Manager&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
 
 <br/>
 
@@ -24,6 +24,8 @@
 |:---:|:---|
 | `2026.01 – 현재` | 삼성청년SW·AI아카데미 **SSAFY 15기** |
 | `2024.10 – 2025.10` | **GS리테일** 영업관리 · 고객 반응과 매출 데이터를 바탕으로 판매 전략 실행 |
+| `2022.01 – 2023.12` | 경희대학교 크로스핏 동아리 **[SQU:AT](https://www.instagram.com/khusquat/)** 설립·회장 · 운영 방향 수립, 부원 모집·관리, 교류전·자체 대회 기획·운영 |
+| `2017.05 – 2017.12` | **KUSF U-스포츠마케팅 러너** · 대학스포츠 홍보 활동, 콘텐츠 기획·디지털 홍보 학습, 대학스포츠리그·클럽챔피언십 현장 활동 |
 | `2017.03 – 2024.02` | **경희대학교** 체육학 주전공 · 스페인어 복수전공 · 졸업 |
 
 </div>
@@ -36,8 +38,8 @@
 
 | 기간 | 내용 |
 |:---:|:---|
-| `2026.08 – 2026.10` | AI 상품 탐색부터 주문·결제까지 연결하는 서비스, **'Copenhagen'** `(Pay Backend / PG Mock)`<br/>결제 예외 처리·중복 청구 방지 구현, 모의 PG 환경에서 결제 대사 처리 시간 **약 89% 단축** |
-| `2026.07 – 2026.08` | 아이의 놀이·대화 기록을 부모의 하루 리포트로 제공하는 서비스, **'빵긋'** `(Team Lead / Backend / Infra)`<br/>부모 리포트 기획·AI 연동·배포 자동화 구현, 인원 변동에 따른 **역할 재배치와 일정 조정** |
+| `2026.08 – 2026.10` | AI 상품 탐색부터 주문·결제까지 연결하는 서비스, **'Copenhagen'** `(Backend)`<br/>결제 예외 처리·중복 청구 방지 구현, 모의 PG 환경에서 결제 대사 처리 시간 **약 89% 단축** |
+| `2026.07 – 2026.08` | 아이의 놀이·대화 기록을 부모의 하루 리포트로 제공하는 서비스, **'빵긋'** `(Leader/Backend/Infra)`<br/>부모 리포트 기획·AI 연동·배포 자동화 구현, 인원 변동에 따른 **역할 재배치와 일정 조정** |
 | `2026.06` | 건강 목표와 복용 정보를 반영한 AI 성분 추천 서비스, **'Nutripic'** `(Backend / AI)`<br/>성분 정보 중심의 **서비스 범위 결정**, RAG 기반 추천·위험 요청 차단·출처 검증 구현 |
 
 </div>
@@ -51,8 +53,8 @@
 | 수상일 | 수상 내용 |
 |:---:|:---|
 | `2026.10` | SSAFY 특화 프로젝트 **우수상 · 2등** — Copenhagen |
-| `2026.08` | SSAFY 공통 프로젝트 **우수팀 · 1등** — 빵긋 |
-| `2026.06` | SSAFY 1학기 프로젝트 **우수상 · 서울2반 2등** — Nutripic |
+| `2026.08` | SSAFY 공통 프로젝트 **우수상 · 1등** — 빵긋 |
+| `2026.06` | SSAFY 1학기 프로젝트 **우수상 · 2등** — Nutripic |
 
 </div>
 
@@ -102,6 +104,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14&height=100&section=footer" alt="Gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:182848,100:4B6CB7&height=100&section=footer" alt="Gradient footer" />
 
 </div>
