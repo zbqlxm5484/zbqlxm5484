@@ -53,11 +53,16 @@
 
 <div align="center">
 
-| 수상일 | 프로젝트 | 수상 내용<img width="2000" height="1" alt="" /> |
-|:---:|:---:|:---|
-| `2026.09` | **Copenhagen** | SSAFY 2학기 특화 프로젝트 **우수상 · 2등** · 삼성전자 |
-| `2026.08` | **빵긋** | SSAFY 2학기 공통 프로젝트 **우수상 · 1등** · 삼성전자 |
-| `2026.06` | **Nutripic** | SSAFY 1학기 프로젝트 **우수상 · 2등** · 삼성전자 |
+<table>
+<thead>
+<tr><th align="center">&nbsp;&nbsp;&nbsp;수상일&nbsp;&nbsp;&nbsp;</th><th align="center">프로젝트</th><th align="left" width="2000">수상 내용</th></tr>
+</thead>
+<tbody>
+<tr><td align="center"><code>2026.09</code></td><td align="center"><b>Copenhagen</b></td><td align="left">SSAFY 2학기 특화 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
+<tr><td align="center"><code>2026.08</code></td><td align="center"><b>빵긋</b></td><td align="left">SSAFY 2학기 공통 프로젝트 <b>우수상 · 1등</b> · 삼성전자</td></tr>
+<tr><td align="center"><code>2026.06</code></td><td align="center"><b>Nutripic</b></td><td align="left">SSAFY 1학기 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
+</tbody>
+</table>
 
 </div>
 
