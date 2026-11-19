@@ -55,12 +55,12 @@
 
 <table>
 <thead>
-<tr><th align="center">&nbsp;&nbsp;&nbsp;수상일&nbsp;&nbsp;&nbsp;</th><th align="center">프로젝트</th><th align="left" width="2000">수상 내용</th></tr>
+<tr><th align="center">수상일</th><th align="center">프로젝트</th><th align="left" width="2000">수상 내용</th></tr>
 </thead>
 <tbody>
-<tr><td align="center"><code>2026.09</code></td><td align="center"><b>Copenhagen</b></td><td align="left">SSAFY 2학기 특화 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
-<tr><td align="center"><code>2026.08</code></td><td align="center"><b>빵긋</b></td><td align="left">SSAFY 2학기 공통 프로젝트 <b>우수상 · 1등</b> · 삼성전자</td></tr>
-<tr><td align="center"><code>2026.06</code></td><td align="center"><b>Nutripic</b></td><td align="left">SSAFY 1학기 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
+<tr><td align="center">&nbsp;&nbsp;&nbsp;<code>2026.09</code>&nbsp;&nbsp;&nbsp;</td><td align="center"><b>Copenhagen</b></td><td align="left">SSAFY 2학기 특화 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
+<tr><td align="center">&nbsp;&nbsp;&nbsp;<code>2026.08</code>&nbsp;&nbsp;&nbsp;</td><td align="center"><b>빵긋</b></td><td align="left">SSAFY 2학기 공통 프로젝트 <b>우수상 · 1등</b> · 삼성전자</td></tr>
+<tr><td align="center">&nbsp;&nbsp;&nbsp;<code>2026.06</code>&nbsp;&nbsp;&nbsp;</td><td align="center"><b>Nutripic</b></td><td align="left">SSAFY 1학기 프로젝트 <b>우수상 · 2등</b> · 삼성전자</td></tr>
 </tbody>
 </table>
 
