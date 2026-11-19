@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/zbqlxm5484/zbqlxm5484/raw/refs/heads/master/kim-jiyoon-portfolio.pdf"><img src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-1428A0?style=for-the-badge&labelColor=111827" height="44" alt="Portfolio Download" /></a>
-&nbsp;&nbsp;
 <a href="https://github.com/zbqlxm5484/zbqlxm5484/raw/refs/heads/master/kim-jiyoon-resume.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-1428A0?style=for-the-badge&labelColor=111827" height="44" alt="Resume Download" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/zbqlxm5484/zbqlxm5484/raw/refs/heads/master/kim-jiyoon-portfolio.pdf"><img src="https://img.shields.io/badge/PORTFOLIO-DOWNLOAD-1428A0?style=for-the-badge&labelColor=111827" height="44" alt="Portfolio Download" /></a>
 
 </div>
 
