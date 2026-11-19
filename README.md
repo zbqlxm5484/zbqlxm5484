@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1428A0&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Aspiring%20Product%20Manager&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1428A0&height=220&section=header&text=Jiyoon%27s%20github&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%2F%20AI%20%2F%20FDE&descAlignY=62&descSize=16" alt="Jiyoon's GitHub" />
 
 <br/>
 
