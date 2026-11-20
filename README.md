@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=2500&pause=500&color=1428A0&center=true&vCenter=true&width=950&height=75&lines=%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98%20%EC%9A%94%EA%B5%AC%EB%A5%BC%20%EB%AF%BF%EC%9D%84%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C%20%EA%B5%AC%EC%B2%B4%ED%99%94%ED%95%98%EB%8A%94%20%EA%B9%80%EC%A7%80%EC%9C%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%2C%20%ED%8C%80%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%99%84%EC%84%B1%ED%95%A9%EB%8B%88%EB%8B%A4." alt="사용자의 요구를 믿을 수 있는 서비스로 구체화하고, 팀과 함께 완성합니다." />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=25&duration=2500&pause=500&color=1428A0&center=true&vCenter=true&width=950&height=75&lines=%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%EC%9D%84%20%EB%84%98%EC%96%B4%2C%20%EA%B2%B0%EA%B3%BC%EC%9D%98%20%EC%8B%A0%EB%A2%B0%EC%84%B1%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="기능 구현을 넘어, 결과의 신뢰성을 고민하는 개발자" />
 
 <br/><br/>
 
